@@ -22,6 +22,7 @@ If you need a custom Power BI dashboard for your business, you can hire me direc
 ## Repository Structure
 Financial overview.pbix`: The primary Power BI file containing the data model and interactive visualizations.https://github.com/jweel-hossain/financial-performance-analytics/blob/main/Financial%20overview.pbix
 * `Screenshots/`: Folder containing static images of the dashboard for quick preview.
+  https://github.com/jweel-hossain/financial-performance-analytics/blob/main/Finance%20Overview.PNG
 
 ## Author
 **Jweel Hossain**
