@@ -20,7 +20,7 @@ If you need a custom Power BI dashboard for your business, you can hire me direc
 [**Hire Me on Fiverr**](https://www.fiverr.com/s/pdK7BBR)
 
 ## Repository Structure
-Financial overview.pbix`: The primary Power BI file containing the data model and interactive visualizations.
+Financial overview.pbix`: The primary Power BI file containing the data model and interactive visualizations.https://github.com/jweel-hossain/financial-performance-analytics/blob/main/Financial%20overview.pbix
 * `Screenshots/`: Folder containing static images of the dashboard for quick preview.
 
 ## Author
